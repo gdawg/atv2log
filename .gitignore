@@ -1,0 +1,7 @@
+# object files / cached
+*.o
+# executables
+syslog
+# executables
+asllog
+local.mk
